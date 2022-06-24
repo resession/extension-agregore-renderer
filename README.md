@@ -1,5 +1,5 @@
-# extension-agregore-renderer
-A generalized Markdown/Gemini/JSON content renderer for Agregore. Replaces the old Markdown/Gemini renderers
+# extension-hybrid-renderer
+A generalized Markdown/Gemini/JSON content renderer for Hybrid. Replaces the old Markdown/Gemini renderers
 
 ## How it works:
 

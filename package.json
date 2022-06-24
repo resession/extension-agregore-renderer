@@ -1,7 +1,7 @@
 {
-  "name": "extension-agregore-renderer",
+  "name": "extension-hybrid-renderer",
   "version": "1.1.0",
-  "description": "A generalized Markdown/Gemini/ETC content renderer for Agregore. Replaces the old Markdown/Gemini renderers",
+  "description": "A generalized Markdown/Gemini/ETC content renderer for Hybrid. Replaces the old Markdown/Gemini renderers",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RangerMauve/extension-agregore-renderer.git"
+    "url": "git+https://github.com/RangerMauve/extension-hybrid-renderer.git"
   },
   "author": "rangermauve <ranger@mauve.moe> (https://mauve.moe/)",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/RangerMauve/extension-agregore-renderer/issues"
+    "url": "https://github.com/RangerMauve/extension-hybrid-renderer/issues"
   },
-  "homepage": "https://github.com/RangerMauve/extension-agregore-renderer#readme",
+  "homepage": "https://github.com/RangerMauve/extension-hybrid-renderer#readme",
   "devDependencies": {
     "browserify": "^17.0.0",
     "standard": "^17.0.0"
